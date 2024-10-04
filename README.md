@@ -33,3 +33,19 @@ https://www.3tres3.com.br/abstracts/prevendo-o-canibalismo-de-cauda-em-porcos-na
 
 - Necessidade de enriquecimento para minimizar canibalismo e estresse
 - Problema de entupimento de canaletas por acumulo de cordas usadas para enriquecimento
+
+
+## Pesquisa
+- Porcos são agrupados por fases de vida
+
+1. Creche
+	- Pós desmame, ingredientes de alta qualidade e digestibilidade
+2. Crescimento
+	- Porcos preferem alimentos que podem ser consumidos rapidamente
+	- milho, soja e cereais alternativos como sorgo, DDGS, milheto, triguilho e triticale, assim como resíduos agroindustriais
+3. Terminação
+	- Consumo de mais alimentos do que precisam
+	- Engorda para o abate
+	- [O canibalismo ocorre nessa parte principalmente](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/58755/1/CUsersPiazzonDocuments173.pdf)
+- Algumas granjas cortam ou esmagam caudas para resolver esse problema
+	- 
