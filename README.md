@@ -49,3 +49,11 @@ https://www.3tres3.com.br/abstracts/prevendo-o-canibalismo-de-cauda-em-porcos-na
 	- [O canibalismo ocorre nessa parte principalmente](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/58755/1/CUsersPiazzonDocuments173.pdf)
 - Algumas granjas cortam ou esmagam caudas para resolver esse problema
 	- 
+
+
+- como a corda fica no final da vida útil dela?
+- se canibalismo é um problema grande o suficiente para justificar diminuir o volume de porcos por granja
+- onde fica a canaleta?
+- uma corda de amido solúvel seria viável?
+
+
